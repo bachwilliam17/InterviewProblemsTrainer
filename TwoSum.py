@@ -1,3 +1,9 @@
+# solution : https://leetcode.com/problems/two-sum/solutions/737092/sum-megapost-python3-solution-with-a-detailed-explanation/
+
+test = {}
+test[25] = 5
+test[30] = 6
+print(test)
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -6,15 +12,14 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        result = []
+        seen ={}
 
         for index, current_num in enumerate(nums) : 
 
-            for index2, other_num in enumerate(nums) : 
-                
-                sum_result = current_num + other_num
-                if sum_result == target : 
-                    result.append(index)
-                    result.append(index2)
-                    return result
+            remainder = target - current_num
+
+            if remainder in seen : 
+                return [index, seen[remaining]]
+            else : 
+                seen[current_num] = index
 
