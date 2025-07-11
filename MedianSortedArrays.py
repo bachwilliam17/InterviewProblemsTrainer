@@ -7,3 +7,4 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: float
         """
+        # Arrays are sorted so merge the two arrays one by one and stop when you get to the median index
