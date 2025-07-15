@@ -19,7 +19,7 @@ class Solution(object):
             remainder = target - current_num
 
             if remainder in seen : 
-                return [index, seen[remaining]]
+                return [index, seen[remainder]]
             else : 
                 seen[current_num] = index
 
