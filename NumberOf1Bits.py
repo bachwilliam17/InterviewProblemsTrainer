@@ -1,0 +1,1 @@
+# Solution avec n & (n-1) 
