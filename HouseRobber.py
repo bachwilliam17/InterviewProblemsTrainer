@@ -13,3 +13,5 @@ class Solution(object):
             rob2 = temp
 
         return rob2
+    
+        # For House robber 2 : call rob on nums[1:] and nums[:-1]
