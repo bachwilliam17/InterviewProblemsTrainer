@@ -1,0 +1,31 @@
+{ 'data': { 
+    'branch': { 
+        'branch_id': 8, 'company_id': 1, 'ora_schema': SNA, 'branch_name': Montréal, 'concat_name': osa/mtl, 
+        'company_name': Optimum Société d'Assurance inc., 'active_branch': True, 'gis_branch_id': 1, 
+        'hidden_branch': False, 'primary_language': FR-CA, 'branch_description': , 'branch_abbreviation': MTL, 
+        'company_description': , 'company_abbreviation': OSA, 'company_historical_abbreviation': SNA }, 
+        'cld_id': 1181249, 
+        'client': { 
+            'client_id': 162424, 'client_name': HOSSEIN TAHERZADEH, 
+            'postal_address': { 
+                'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H9K1J8, 'street_name': POMINVILLE, 
+                'civic_number': 4745, 'civic_suffix': , 'municipality': PIERREFONDS, 'suite_unaccent': , 
+                'civic_number_to': , 'civic_number_from': , 
+                'additional_formats': { 
+                    'original_address': { 
+                        'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H9K 1J8, 
+                        'street_name': POMINVILLE, 'civic_number': 4745, 'civic_suffix': , 'municipality': PIERREFONDS, 
+                        'civic_number_to': , 'civic_number_from': , 'civic_number_to_suffix': , 'civic_number_from_suffix':  }, 
+                        'formatted_string_en': 4745 POMINVILLE
+ PIERREFONDS QC  H9K1J8
+CANADA, 'formatted_string_fr': 4745 POMINVILLE
+ PIERREFONDS QC  H9K1J8
+CANADA }, 'physical_address_md5': 8f7db4c6df89f979e5d0d668991f33d0, 'street_name_unaccent': POMINVILLE, 
+'civic_suffix_unaccent': , 'municipality_unaccent': PIERREFONDS, 'civic_number_to_suffix': , 'civic_number_from_suffix':  } }, 
+'num_doc': 9, 'typ_cat': GEN, 'ver_num': 0, 'portfolio': { 'cou_no': 1, 'ptf_id': 100023, 
+'bkr_name': LES ASSURANCES PROVENCHER, VERREAULT & ASSOCIÉS INC., 'sucgro_id': 1, 'company_id': 1, 
+'ptf_comment': Commercial; Régulier, 'ptf_cancelled': 0, 'bkr_dec_comment': , 'branch_cancelled': 0, 
+'comlog_branch_id': 8, 'pont_ancien_numero_courtier': 1555 }, 'underwriter': { 
+    'user_id': 69, 'usr_id_str': Stéphanie Porter - SNAPORS, 'samaccountname': SNAPORS }, 'ccer_num_cer': 1, 
+    'cctr_num_ctr': 11024328, 'date_received': 2025-08-06, 'comlog_branch_id': 8, 'special_risk_indicator': False, 
+    'liability_industry_code':  } }
