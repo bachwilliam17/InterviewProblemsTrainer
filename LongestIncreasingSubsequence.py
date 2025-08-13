@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: int
         """
         
+        # chaque élément du tableau retourne au moins 1
         dp = [1] * len(nums) 
 
         for i in range(len(nums) - 1, -1, -1) : 
