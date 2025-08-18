@@ -21,4 +21,4 @@ class Solution(object):
                     left_pointer += 1
                 current_substring.add(s[right_pointer])
 
-        return max_length
+        return max_length #
