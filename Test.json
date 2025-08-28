@@ -38,3 +38,69 @@ CANADA
     'liability_industry_code':
     }
 }
+
+
+
+
+
+{ 'data': { 'sheet': { 'sites': [
+                { 'risks': [
+                        { 'subject_tenants': [], 'insured_interest': OWN, 
+'risk_occupancies': [
+                                { 'industry_code': 6532A, 'operations_description': Propriétaire foncier - 13 Logis
+                                }
+                            ]
+                        }
+                    ], 
+'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H4E1G6, 'street_name': Av De l'Église, 
+'civic_number': 1731, 'civic_suffix': , 'municipality': Montréal, 'suite_unaccent': , 'civic_number_to': , 
+'civic_number_from': , 'additional_formats': { 'original_address': { 'suite': , 'po_box': , 'country': CANADA,
+ 'province': QC, 'postal_code': H4E1G6, 'street_name': Av De l'Église, 'civic_number': 1731, 'civic_suffix': ,
+  'municipality': Montréal, 'civic_number_to': , 'civic_number_from': , 'civic_number_to_suffix': , 
+  'civic_number_from_suffix':
+                        }, 'formatted_string_en': 1731 Av De l'Église
+ Montréal QC  H4E1G6
+CANADA, 'formatted_string_fr': 1731 Av De l'Église
+ Montréal QC  H4E1G6
+CANADA
+                    }, 'physical_address_md5': c2c652f9a18a237ead6bd84736e5c6e8, 'street_name_unaccent': AV DE L'EGLISE, 
+'civic_suffix_unaccent': , 'municipality_unaccent': MONTREAL, 'civic_number_to_suffix': , 'civic_number_from_suffix':
+                }
+            ], 'branch': { 'branch_id': 8, 'company_id': 1, 'ora_schema': SNA, 'branch_name': Montréal, 
+            'concat_name': osa/mtl, 'company_name': Optimum Société d'Assurance inc., 'active_branch': True, 
+            'gis_branch_id': 1, 'hidden_branch': False, 'primary_language': FR-CA, 'branch_description': , 
+            'branch_abbreviation': MTL, 'company_description': , 'company_abbreviation': OSA, 
+            'company_historical_abbreviation': SNA
+            }, 'cld_id': 1176547, 'num_doc': 1, 'num_ver': 0, 'package': , 'broker_name': CHES SOLUTIONS SPECIALISEES, 
+            'broker_grade': , 'ccer_num_cer': 1, 'cctr_num_ctr': qq100095014, 'broker_number': 2984, 
+            'named_insured': 9403-4295 Québec Inc., 'total_premium': , 'contract_number': 8.qq100095014.1.1.0, 
+            'comlog_branch_id': 8
+        }, 
+'grid_row': { 'cdv': 1.1.0, 'uw_cn': Denis, Linda, 'uw_sn': Denis, 'cld_id': 1176547, 'cld_uw': SNADENL, 
+'cou_id': 100291, 'cou_no': 1, 'id_str': 8.qq100095014.1.1.0, 'ptf_id': 103912, 'dat_eff': 2025-07-23, 
+'dat_exp': 2025-05-24, 'doc_fee': , 'bkr_name': CHES SOLUTIONS SPECIALISEES, 'doc_prem': , 'grade_id': , 
+'cli_m_nom': 9403-4295 Québec Inc., 'cli_m_pro': QC, 'sucgro_id': 1, 'ua_id_str': , 'uw_id_str': Linda Denis - SNADENL, 
+'cd_num_doc': 1, 'cd_typ_doc': 0, 'cd_ver_num': 0, 'cli_m_pays': CANADA, 'client_num': 87660, 'comlog_ctr': True, 
+'grade_name': , 'pri_cli_id': 87660, 'uw_emailed': 2025-07-23 09: 10: 02, 'cld_num_doc': 1, 'cld_ver_num': 0, 
+'ctr_typ_cat': GEN, 'ctr_typ_ctr': Q, 'ptf_comment': , 'auto_renewal': , 'cli_m_po_box': , 'ctr_user_mod': SNADENL, 
+'uw_givenname': Linda, 'cli_m_apt_num': , 'cli_m_cod_pos': H4P1T7, 'cli_m_nom_vil': Montréal, 'gis_branch_id': 1, 
+'uticou_ptf_id': 103912, 'cd_gis_dat_prd': , 'cld_comlog_ctr': True, 'cld_date_bound': , 'cli_m_strt_num': 4800, 
+'bkr_dec_comment': , 'cd_ccer_num_cer': 1, 'cd_cctr_num_ctr': qq100095014, 'cld_date_lapsed': , 
+'cld_date_quoted': 2025-07-23, 'cld_modified_by': SNADENL, 'cld_status_code': , 'cld_status_date': 2025-07-23, 
+'cli_m_strt_name': Rue De La Savane, 'cd_date_imported': 2025-07-23 09: 05: 18, 'cd_date_modified': 2025-07-23 09: 05: 18, 
+'cld_ccer_num_cer': 1, 'cld_cctr_num_ctr': qq100095014, 'cld_date_deleted': , 'comlog_branch_id': 8, 
+'ctr_cctr_num_ctr': qq100095014, 'status_reason_en': , 'status_reason_fr': , 'cld_date_doc_sent': , 
+'cld_date_modified': 2025-07-23 09: 22: 17, 'cld_date_received': 2025-07-23, 'cld_date_required': 2025-05-24, 
+'comlog_company_id': 1, 'ctr_date_modified': 2025-07-23 09: 05: 18, 'cld_premium_quoted': 1062, 
+'comlog_branch_name': Montréal, 'status_code_concat': , 'cd_gis_user_created': SNADENL, 'cd_last_modified_by': SNADENL, 
+'broker_ptf_cancelled': 0, 'cld_comlog_branch_id': 8, 'ctr_comlog_branch_id': 8, 'ctr_gis_user_created': SNADENL, 
+'grade_description_en': , 'grade_description_fr': , 'submission_status_en': BOUND, 'submission_status_fr': LIÉ, 
+'cld_date_first_contact': 2025-07-23, 'cld_property_deviation': , 'cld_status_reason_code': , 
+'ctr_date_root_imported': 2025-07-23 09: 05: 18, 'ctr_gis_source_cer_num': , 'ctr_gis_source_ctr_num': , 
+'ctr_ind_risque_special': 0, 'submission_status_type': GIV, 'broker_branch_cancelled': 0, 'cld_liability_deviation': , 
+'cld_policy_num_assigned': 11028497, 'submission_status_id_str': GIV-28, 'comlog_branch_abbreviation': MTL, 
+'comlog_submission_status_id': 28, 'pont_ancien_numero_courtier': 2984, 'ctr_gis_certificates_indicator': False, 
+'cld_ua_assigned_commlog_user_id':
+        }
+    }
+}
