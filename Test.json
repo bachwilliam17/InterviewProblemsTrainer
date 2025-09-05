@@ -40,6 +40,9 @@ CANADA
 }
 
 
+
+
+
 { 'data': { 'sheet': { 'sites': [
                 { 'risks': [
                         { 'subject_tenants': [], 'insured_interest': OWN, 
@@ -61,7 +64,7 @@ CANADA, 'formatted_string_fr': 1731 Av De l'Église
  Montréal QC  H4E1G6
 CANADA
                     }, 'physical_address_md5': c2c652f9a18a237ead6bd84736e5c6e8, 'street_name_unaccent': AV DE L'EGLISE, 
-'civic_suffix_unaccent': , 'municipality_unaccent': MONTREAL, 'civic_number_to_suffix': , 'civic_number_from_suffix':
+'civic_suffix_unaccent': bitch, 'municipality_unaccent': MONTREAL, 'civic_number_to_suffix': , 'civic_number_from_suffix':
                 }
             ], 'branch': { 'branch_id': 8, 'company_id': 1, 'ora_schema': SNA, 'branch_name': Montréal, 
             'concat_name': osa/mtl, 'company_name': Optimum Société d'Assurance inc., 'active_branch': True, 
