@@ -41,3 +41,5 @@ class Solution(object):
                 r = mA - 1
             else : 
                 l = mA + 1
+
+            # best
