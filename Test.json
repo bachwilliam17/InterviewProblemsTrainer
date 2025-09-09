@@ -104,3 +104,28 @@ CANADA
         }
     }
 }
+
+
+
+
+{ 'data': { 'sheet': { 'sites': [
+                { 'risks': [
+                        { 'subject_tenants': [], 'insured_interest': COW, 'risk_occupancies': [
+                                { 'industry_code': 6550A, 'operations_description': TENEMENT APARTMENTS - ROW HOUSING     (REALTY)
+                                }
+                            ]
+                        }
+                    ], 'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H2R2S6, 'street_name': Av Christophe-Colomb, 'civic_number': , 'civic_suffix': , 'municipality': Montréal, 'suite_unaccent': , 'civic_number_to': 7340, 'civic_number_from': 7336, 'additional_formats': { 'original_address': { 'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H2R2S6, 'street_name': Av Christophe-Colomb, 'civic_number': , 'civic_suffix': , 'municipality': Montréal, 'civic_number_to': 7340, 'civic_number_from': 7336, 'civic_number_to_suffix': , 'civic_number_from_suffix':
+                        }, 'formatted_string_en': 7336 to 7340 Av Christophe-Colomb
+ Montréal QC  H2R2S6
+CANADA, 'formatted_string_fr': 7336 à 7340 Av Christophe-Colomb
+ Montréal QC  H2R2S6
+CANADA
+                    }, 'physical_address_md5': 92f1e74bed55fef4d6d20cc959878ebe, 'street_name_unaccent': AV CHRISTOPHE-COLOMB, 'civic_suffix_unaccent': , 'municipality_unaccent': MONTREAL, 'civic_number_to_suffix': , 'civic_number_from_suffix':
+                }
+            ], 'branch': { 'branch_id': 8, 'company_id': 1, 'ora_schema': SNA, 'branch_name': Montréal, 'concat_name': osa/mtl, 'company_name': Optimum Société d'Assurance inc., 'active_branch': True, 'gis_branch_id': 1, 'hidden_branch': False, 'primary_language': FR-CA, 'branch_description': , 'branch_abbreviation': MTL, 'company_description': , 'company_abbreviation': OSA, 'company_historical_abbreviation': SNA
+            }, 'cld_id': 1192078, 'num_doc': 1, 'num_ver': 0, 'package': , 'broker_name': FORT ASSURANCES ET AVANTAGES SOCIAUX SUCCURSALE MONTREAL, 'broker_grade': B, 'ccer_num_cer': 1, 'cctr_num_ctr': qq100096980, 'broker_number': 1273, 'named_insured': SYNDICAT 7336-7338-7340 CHRISTOPHE COLOMB, 'total_premium': , 'contract_number': 8.qq100096980.1.1.0, 'comlog_branch_id': 8
+        }, 'grid_row': { 'cdv': 1.1.0, 'uw_cn': Hewadmal, Ella Hélai, 'uw_sn': Hewadmal, 'cld_id': 1192078, 'cld_uw': SNAHEWE, 'cou_id': 149, 'cou_no': 1, 'id_str': 8.qq100096980.1.1.0, 'ptf_id': 3718, 'dat_eff': 2025-08-26, 'dat_exp': 2025-09-11, 'doc_fee': , 'bkr_name': FORT ASSURANCES ET AVANTAGES SOCIAUX SUCCURSALE MONTREAL, 'doc_prem': , 'grade_id': 2, 'cli_m_nom': SYNDICAT 7336-7338-7340 CHRISTOPHE COLOMB, 'cli_m_pro': QC, 'sucgro_id': 1, 'ua_id_str': , 'uw_id_str': Ella Hélai Hewadmal - SNAHEWE, 'cd_num_doc': 1, 'cd_typ_doc': 0, 'cd_ver_num': 0, 'cli_m_pays': CANADA, 'client_num': 89449, 'comlog_ctr': True, 'grade_name': B, 'pri_cli_id': 89449, 'uw_emailed': , 'cld_num_doc': 1, 'cld_ver_num': 0, 'ctr_typ_cat': GEN, 'ctr_typ_ctr': Q, 'ptf_comment': Commercial; Régulier, 'auto_renewal': , 'cli_m_po_box': , 'ctr_user_mod': SNAHEWE, 'uw_givenname': Ella Hélai, 'cli_m_apt_num': , 'cli_m_cod_pos': H2R2S6, 'cli_m_nom_vil': Montréal, 'gis_branch_id': 1, 'uticou_ptf_id': 3718, 'cd_gis_dat_prd': , 'cld_comlog_ctr': True, 'cld_date_bound': , 'cli_m_strt_num': 7340, 'bkr_dec_comment': SUCCURSALE MONTREAL, 'cd_ccer_num_cer': 1, 'cd_cctr_num_ctr': qq100096980, 'cld_date_lapsed': , 'cld_date_quoted': 2025-08-26, 'cld_modified_by': SNAHEWE, 'cld_status_code': , 'cld_status_date': 2025-09-09, 'cli_m_strt_name': Av Christophe-Colomb, 'cd_date_imported': 2025-08-26 10: 49: 40, 'cd_date_modified': 2025-08-26 10: 49: 40, 'cld_ccer_num_cer': 1, 'cld_cctr_num_ctr': qq100096980, 'cld_date_deleted': , 'comlog_branch_id': 8, 'ctr_cctr_num_ctr': qq100096980, 'status_reason_en': , 'status_reason_fr': , 'cld_date_doc_sent': , 'cld_date_modified': 2025-09-09 14: 27: 07, 'cld_date_received': 2025-08-26, 'cld_date_required': 2025-09-11, 'comlog_company_id': 1, 'ctr_date_modified': 2025-08-26 10: 49: 40, 'cld_premium_quoted': 5101, 'comlog_branch_name': Montréal, 'status_code_concat': , 'cd_gis_user_created': SNAHEWE, 'cd_last_modified_by': SNAHEWE, 'broker_ptf_cancelled': 0, 'cld_comlog_branch_id': 8, 'ctr_comlog_branch_id': 8, 'ctr_gis_user_created': SNAHEWE, 'grade_description_en': , 'grade_description_fr': , 'submission_status_en': BOUND, 'submission_status_fr': LIÉ, 'cld_date_first_contact': 2025-08-26, 'cld_property_deviation': , 'cld_status_reason_code': , 'ctr_date_root_imported': 2025-08-26 10: 49: 40, 'ctr_gis_source_cer_num': , 'ctr_gis_source_ctr_num': , 'ctr_ind_risque_special': 0, 'submission_status_type': GIV, 'broker_branch_cancelled': 0, 'cld_liability_deviation': , 'cld_policy_num_assigned': , 'submission_status_id_str': GIV-28, 'comlog_branch_abbreviation': MTL, 'comlog_submission_status_id': 28, 'pont_ancien_numero_courtier': 1273, 'ctr_gis_certificates_indicator': False, 'cld_ua_assigned_commlog_user_id':
+        }
+    }
+}
