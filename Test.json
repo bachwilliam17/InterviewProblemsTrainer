@@ -129,3 +129,41 @@ CANADA
         }
     }
 }
+
+
+
+{ 'data': { 'sheet': { 'sites': [
+                { 'risks': [
+                        { 'subject_tenants': [], 'insured_interest': OWN, 'risk_occupancies': [
+                                { 'industry_code': 6532A, 'operations_description': PROPRIÉTAIRE FONCIER / 3 LOGIS RÉSIDENTIELS – BAUX ANNUELS
+                                }
+                            ]
+                        }
+                    ], 'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H1L4L5, 'street_name': Rue Paul-Pau, 'civic_number': 2539, 'civic_suffix': , 'municipality': Montréal, 'suite_unaccent': , 'civic_number_to': , 'civic_number_from': , 'additional_formats': { 'original_address': { 'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H1L4L5, 'street_name': Rue Paul-Pau, 'civic_number': 2539, 'civic_suffix': , 'municipality': Montréal, 'civic_number_to': , 'civic_number_from': , 'civic_number_to_suffix': , 'civic_number_from_suffix':
+                        }, 'formatted_string_en': 2539 Rue Paul-Pau
+ Montréal QC  H1L4L5
+CANADA, 'formatted_string_fr': 2539 Rue Paul-Pau
+ Montréal QC  H1L4L5
+CANADA
+                    }, 'physical_address_md5': 16b773dac59d98c8da4a54680d04cc5f, 'street_name_unaccent': RUE PAUL-PAU, 'civic_suffix_unaccent': , 'municipality_unaccent': MONTREAL, 'civic_number_to_suffix': , 'civic_number_from_suffix':
+                },
+                { 'risks': [
+                        { 'subject_tenants': [], 'insured_interest': OWN, 'risk_occupancies': [
+                                { 'industry_code': 6532A, 'operations_description': PROPRIÉTAIRE FONCIER / 3 LOGIS RÉSIDENTIELS – BAUX ANNUELS
+                                }
+                            ]
+                        }
+                    ], 'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H1L4L5, 'street_name': Rue Paul-Pau, 'civic_number': 2541, 'civic_suffix': , 'municipality': Montréal, 'suite_unaccent': , 'civic_number_to': , 'civic_number_from': , 'additional_formats': { 'original_address': { 'suite': , 'po_box': , 'country': CANADA, 'province': QC, 'postal_code': H1L4L5, 'street_name': Rue Paul-Pau, 'civic_number': 2541, 'civic_suffix': , 'municipality': Montréal, 'civic_number_to': , 'civic_number_from': , 'civic_number_to_suffix': , 'civic_number_from_suffix':
+                        }, 'formatted_string_en': 2541 Rue Paul-Pau
+ Montréal QC  H1L4L5
+CANADA, 'formatted_string_fr': 2541 Rue Paul-Pau
+ Montréal QC  H1L4L5
+CANADA
+                    }, 'physical_address_md5': 302ccbaed41d0713cca352979bd92277, 'street_name_unaccent': RUE PAUL-PAU, 'civic_suffix_unaccent': , 'municipality_unaccent': MONTREAL, 'civic_number_to_suffix': , 'civic_number_from_suffix':
+                }
+            ], 'branch': { 'branch_id': 8, 'company_id': 1, 'ora_schema': SNA, 'branch_name': Montréal, 'concat_name': osa/mtl, 'company_name': Optimum Société d'Assurance inc., 'active_branch': True, 'gis_branch_id': 1, 'hidden_branch': False, 'primary_language': FR-CA, 'branch_description': , 'branch_abbreviation': MTL, 'company_description': , 'company_abbreviation': OSA, 'company_historical_abbreviation': SNA
+            }, 'cld_id': 1197225, 'num_doc': 1, 'num_ver': 0, 'package': , 'broker_name': RACINE ET CHAMBERLAND INC., 'broker_grade': B, 'ccer_num_cer': 1, 'cctr_num_ctr': qq100098379, 'broker_number': 1640, 'named_insured': 2539 PAUL-PAU S.E.C., 'total_premium': , 'contract_number': 8.qq100098379.1.1.0, 'comlog_branch_id': 8
+        }, 'grid_row': { 'cdv': 1.1.0, 'uw_cn': Sooknarine, Kathleen, 'uw_sn': Sooknarine, 'cld_id': 1197225, 'cld_uw': SNASOOK, 'cou_id': 100040, 'cou_no': 1, 'id_str': 8.qq100098379.1.1.0, 'ptf_id': 100260, 'dat_eff': 2025-09-22, 'dat_exp': 2025-09-22, 'doc_fee': , 'bkr_name': RACINE ET CHAMBERLAND INC., 'doc_prem': , 'grade_id': 2, 'cli_m_nom': 2539 PAUL-PAU S.E.C., 'cli_m_pro': QC, 'sucgro_id': 1, 'ua_id_str': , 'uw_id_str': Kathleen Sooknarine - SNASOOK, 'cd_num_doc': 1, 'cd_typ_doc': 0, 'cd_ver_num': 0, 'cli_m_pays': CANADA, 'client_num': 90687, 'comlog_ctr': True, 'grade_name': B, 'pri_cli_id': 90687, 'uw_emailed': 2025-09-22 09: 35: 01, 'cld_num_doc': 1, 'cld_ver_num': 0, 'ctr_typ_cat': GEN, 'ctr_typ_ctr': Q, 'ptf_comment': , 'auto_renewal': , 'cli_m_po_box': , 'ctr_user_mod': SNASOOK, 'uw_givenname': Kathleen, 'cli_m_apt_num': 201, 'cli_m_cod_pos': H3C1T8, 'cli_m_nom_vil': Montréal, 'gis_branch_id': 1, 'uticou_ptf_id': 100260, 'cd_gis_dat_prd': , 'cld_comlog_ctr': True, 'cld_date_bound': , 'cli_m_strt_num': 930, 'bkr_dec_comment': , 'cd_ccer_num_cer': 1, 'cd_cctr_num_ctr': qq100098379, 'cld_date_lapsed': , 'cld_date_quoted': 2025-09-22, 'cld_modified_by': SNASOOK, 'cld_status_code': , 'cld_status_date': 2025-09-23, 'cli_m_strt_name': Rue Wellington, 'cd_date_imported': 2025-09-22 09: 30: 20, 'cd_date_modified': 2025-09-22 09: 30: 20, 'cld_ccer_num_cer': 1, 'cld_cctr_num_ctr': qq100098379, 'cld_date_deleted': , 'comlog_branch_id': 8, 'ctr_cctr_num_ctr': qq100098379, 'status_reason_en': , 'status_reason_fr': , 'cld_date_doc_sent': , 'cld_date_modified': 2025-09-23 08: 10: 31, 'cld_date_received': 2025-09-22, 'cld_date_required': 2025-09-22, 'comlog_company_id': 1, 'ctr_date_modified': 2025-09-22 09: 30: 20, 'cld_premium_quoted': 4038, 'comlog_branch_name': Montréal, 'status_code_concat': , 'cd_gis_user_created': SNASOOK, 'cd_last_modified_by': SNASOOK, 'broker_ptf_cancelled': 0, 'cld_comlog_branch_id': 8, 'ctr_comlog_branch_id': 8, 'ctr_gis_user_created': SNASOOK, 'grade_description_en': , 'grade_description_fr': , 'submission_status_en': BOUND, 'submission_status_fr': LIÉ, 'cld_date_first_contact': 2025-09-22, 'cld_property_deviation': , 'cld_status_reason_code': , 'ctr_date_root_imported': 2025-09-22 09: 30: 20, 'ctr_gis_source_cer_num': , 'ctr_gis_source_ctr_num': , 'ctr_ind_risque_special': 0, 'submission_status_type': GIV, 'broker_branch_cancelled': 0, 'cld_liability_deviation': , 'cld_policy_num_assigned': , 'submission_status_id_str': GIV-28, 'comlog_branch_abbreviation': MTL, 'comlog_submission_status_id': 28, 'pont_ancien_numero_courtier': 1640, 'ctr_gis_certificates_indicator': False, 'cld_ua_assigned_commlog_user_id':
+        }
+    }
+}
